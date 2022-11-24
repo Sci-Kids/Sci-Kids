@@ -35,6 +35,7 @@ h1{
 .heading{
   font-size: 290%;
   font-weight: bold;
+  font-style: italic;
   margin:1%;
   padding:0;
 }
