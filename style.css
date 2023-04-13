@@ -1,0 +1,174 @@
+main{
+  margin-bottom: 50px;
+}
+
+#firstimage{
+  width: 300%;
+}
+.image{
+  width: 320px;
+  margin:0;
+  padding:0;
+  overflow-x:hidden;
+}
+
+#socialmedia{
+  width:230px;
+
+}
+
+.instagram{
+  width: 200px;
+}
+
+.video{
+  width: 400px;
+}
+
+h1{
+  text-align: left;
+  font family: Arial;
+  margin-top:0;
+  padding:0;
+}
+
+.heading{
+  font-size: 290%;
+  font-weight: bold;
+  font-style: italic;
+  margin:1%;
+  padding:0;
+}
+
+h2{
+  text-align: center;
+  font family: Arial;
+  margin:0;
+  padding:0;
+}
+
+  .subheading{
+    font size: 250%;
+    font-weight: bold;
+    color: White;
+    text-align: center;
+}
+
+.subheading2{
+  font-size: 200%;
+  font-weight: bold;
+  color: White;
+  margin: 3%;
+}
+
+h3{
+  text-align:left;
+  font family: Arial;
+}
+
+.cursor{
+  text-align: center;
+  font-family: Arial;
+  color: white;
+  font-weight: bold;
+}
+
+.lessons{
+    text-align: left;
+    font family: Arial;
+    font-size: 150%;
+    margin: 1%;
+  }
+
+ .list{
+  text-align:left;
+  font family: Arial;
+  font-size: 100%;
+  font-weight: bold;
+  margin: 3%;
+}
+p{
+  text-align: left;
+  font-family: Arial;
+  font-size: 130%;
+  margin: 2%;
+  font-weight: bold;
+}
+
+.information{
+  font size: 200%;
+  color: black;
+  font family: Arial;
+  text-align: justify;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.menu{
+  background-color:#f18973;
+
+}
+
+nav ul li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+
+nav ul li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+nav ul li a:hover {
+  background-color: #111;
+}
+
+.active{
+  background-color:#ff6f69;
+  color: white;
+}
+
+.button {
+  background-color: #E8ADAA;
+  border: 2px solid #E799A3;
+  border-radius: 50px
+  color: black;
+  padding: 15px 30px;
+  margin: 5px;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+@media screen and (min-width: 500px) {
+  .container {
+    margin: 1em 2em;
+  }
+}
+
+
+footer{
+  position:fixed;
+  margin:0px;
+  left: 0;
+  bottom: 0;
+  width:100%;
+  height:45px;
+  text-align:center;
+  vertical-align: middle;
+  font-family: Arial;
+  font-size: 130%;
+  font-weight: bold;
+  background-color: #3B5998;
+  color: white;
+}
