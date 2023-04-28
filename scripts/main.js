@@ -21,7 +21,7 @@ function social()
 
 function social2()
 {
-    location.replace("https://www.instagram.com/scik.ids/?hl");
+    location.replace("https://www.instagram.com/mini.science/");
 }
 
 function firstimage() {
